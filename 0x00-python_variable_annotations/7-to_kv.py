@@ -10,7 +10,7 @@ from typing import Union, Tuple
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     """
-    It returns a tuple containing the string `k` and the square of the float `v`
+    Returns a tuple containing the string `k` and the square of the float `v`
 
     Args:
         k (str): a string.
