@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 3's module.
+'''This is task 3 module by Rufus
 '''
 import asyncio
 
