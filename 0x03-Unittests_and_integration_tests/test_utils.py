@@ -9,7 +9,7 @@ from unittest.mock import (
     PropertyMock,
     patch,
 )
-from parameterized import parameterized, parameterized_class # type: ignore
+from parameterized import parameterized, parameterized_class  # type: ignore
 from requests import HTTPError
 
 from client import (
